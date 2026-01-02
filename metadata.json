@@ -1,0 +1,7 @@
+{
+  "name": "EventPulse AI - Intelligent Topic Tracker",
+  "description": "A sophisticated event tracking application that uses Gemini AI to monitor user-defined topics, provide intelligent briefings, and answer deep-dive questions using real-time search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
